@@ -33,12 +33,14 @@
 
 ## Routing Section Intro
 
-> ** Routing in a React App
+> \*\* Routing in a React App
+>
 > 1. Install a third party package
 > 2. routes.js file to comfigure the routes.
 > 3. For each route, create a component file, export the component, import it in routes.js and configure the new route with a path property.
 
-> ** Routing in a NextJS App
+> \*\* Routing in a NextJS App
+>
 > 1. File-system based routing mechanism.
 > 2. When a file is added to the pages folder in a project, it automatically becomes available as a route.
 > 3. By mixing and matching file names with a nested folder structure, it is possible to pretty much define the most common routing patterns.
